@@ -2,6 +2,8 @@
 
 A plant in your Mac's menu bar that grows when you keep your focus sessions, and wilts when you skip them.
 
+**[Website and download](https://adrienbalcioglu.github.io/pousse/)**
+
 ## How it works
 
 - Start a focus session from the menu bar: 15, 25, 45 or 60 minutes. The countdown sits next to the plant.
