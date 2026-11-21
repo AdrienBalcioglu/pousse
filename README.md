@@ -2,7 +2,7 @@
 
 A plant in your Mac's menu bar that grows when you keep your focus sessions, and wilts when you skip them.
 
-**[Website and download](https://adrienbalcioglu.github.io/pousse/)**
+**[Website and download](https://eidoslab.fr/pousse)**
 
 ## How it works
 
